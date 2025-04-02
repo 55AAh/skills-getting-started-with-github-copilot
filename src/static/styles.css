@@ -95,6 +95,12 @@ section h3 {
   color: #2e7d32;
 }
 
+.participant {
+  font-size: 14px;
+  color: #2e7d32;
+  font-style: italic;
+}
+
 .form-group {
   margin-bottom: 15px;
 }
